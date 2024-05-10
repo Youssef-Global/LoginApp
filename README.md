@@ -11,6 +11,7 @@ The Application is mocking the Login Process using Socket Communication.
       - `java`: Directory containing Java source files.
         - `ClientSide`: Directory for client-side code.
           - `LoginClient.java`: Java class for the client-side logic.
+          - `LoginGUI.java`: Java class for the client-side Login Page.
         - `ServerSide`: Directory for server-side code.
           - `LoginServer.java`: Java class for the server-side logic.
           - `ClientHandler.java`: Java class for handling client connections on the server side.
